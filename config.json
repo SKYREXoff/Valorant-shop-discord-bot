@@ -1,0 +1,9 @@
+{
+  "token": "OTI4NjMzODMzNTk3ODUzNzY4.Ydbnpw.UJ1b_sDsglRsYBK6LTjtwr0btHc",
+  "showSkinPrices": true,
+  "showSkinRarities": true,
+  "refreshSkins": "10 0 0 * * *",
+  "checkGameVersion": "*/15 * * * *",
+  "cleanupAccounts": "0 * * * *",
+  "storePasswords": false
+}
